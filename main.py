@@ -21,7 +21,7 @@ def send_message_to_api(message):
 	}
 	headers = {
 		"content-type": "application/json",
-		"X-RapidAPI-Key": "96e6f92327mshee0147ceec750a6p1c557fjsnb7bb3d14bb33",
+		"X-RapidAPI-Key": "Your API Toke",
 		"X-RapidAPI-Host": "chatgpt-42.p.rapidapi.com"
 	}
 
